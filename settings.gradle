@@ -1,0 +1,3 @@
+include ':BOBApp'
+rootProject.name='BOBApp'
+include ':app'
